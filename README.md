@@ -1,8 +1,18 @@
-### About me 👋
+## Hello and welcome to my profile 👋
 
-I am a passionate coder/designer. I love to work on my
-side projects including freelancing for clients during
+### About me 
+
+I am a passionate coder/designer. I love to work on my <br/>
+side projects including freelancing for clients during <br/>
 weekends and nights.
+
+### Work experience 
+
+Over 1 Year experience as a JavaScript developer. <br/> I have
+been working as a freelancer, designing and developing
+websites. <br/> I also work full-time at Art Printers as a
+Designer / Web Developer using React, Next-JS, and
+Node-JS.
 
 <!--
 **Phakeme/Phakeme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
