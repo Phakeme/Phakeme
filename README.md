@@ -1,12 +1,14 @@
+![Design and Development](https://github.com/Phakeme/Phakeme/blob/main/GithubCover.jpg?raw=true)
+
 ## Hello and welcome to my profile 👋
 
-### About me 
+### About Me 
 
 I am a passionate coder/designer. I love to work on my <br/>
 side projects including freelancing for clients during <br/>
 weekends and nights.
 
-### Work experience 
+### Work Experience 
 
 Over 1 Year experience as a JavaScript developer. <br/> I have
 been working as a freelancer, designing and developing
