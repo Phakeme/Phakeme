@@ -1,4 +1,8 @@
-### Hi there 👋
+### About me 👋
+
+I am a passionate coder/designer. I love to work on my
+side projects including freelancing for clients during
+weekends and nights.
 
 <!--
 **Phakeme/Phakeme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
