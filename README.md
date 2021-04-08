@@ -1,7 +1,9 @@
-![Design and Development](https://github.com/Phakeme/Phakeme/blob/main/GithubCover.jpg?raw=true)
+
+
+
+![Code Wars](https://www.codewars.com/users/Phakeme%20Fakazi/badges/large)
 
 ## Hello and welcome to my profile 👋
-
 ### About Me 
 
 I am a passionate coder/designer. I love to work on my <br/>
