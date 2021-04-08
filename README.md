@@ -3,9 +3,6 @@
 
 ![Code Wars](https://www.codewars.com/users/Phakeme%20Fakazi/badges/large)
 
-## Hello and welcome to my profile 👋
-### About Me 
-
 I am a passionate coder/designer. I love to work on my <br/>
 side projects including freelancing for clients during <br/>
 weekends and nights.
