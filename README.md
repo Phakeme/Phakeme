@@ -3,7 +3,7 @@
 
 ![Code Wars](https://www.codewars.com/users/Phakeme%20Fakazi/badges/large)
 
-FrontEnd Developer
+HTML, CSS, Javascript, React, NextJS
 
 <!--
 **Phakeme/Phakeme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
