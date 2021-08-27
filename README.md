@@ -3,7 +3,7 @@
 
 ![Code Wars](https://www.codewars.com/users/Phakeme%20Fakazi/badges/large)
 
-I am an artist, vscode is my paintbrush and the browser is my canvas
+FrontEnd Developer
 
 <!--
 **Phakeme/Phakeme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
